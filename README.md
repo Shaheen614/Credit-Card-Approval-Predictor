@@ -12,20 +12,6 @@ It uses a Kaggle dataset features to predict whether an applicant would be appro
 5. **Interactive Swagger docs** at `/docs`.
 6. **Dockerized deployment** for portability.
 
----
-
-## 📂 Repo Structure
-
-Credit-Card-Approval-Predictor/
-├─ api/
-│  └─ main.py
-├─ scripts/
-│  └─ train_models.py
-├─ models/              
-├─ data/               
-├─ requirements.txt
-├─ Dockerfile
-└─ README.md
 
 ## Setup
 
